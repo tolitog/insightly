@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Insightly</string>
+    <string name="title_activity_main">Insightly</string>
+    <string name="package_name">com.insightly.app</string>
+    <string name="custom_url_scheme">com.insightly.app</string>
+</resources>

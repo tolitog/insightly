@@ -1,0 +1,2 @@
+cd insightly
+npm run dev -- --host
